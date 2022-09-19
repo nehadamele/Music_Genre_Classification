@@ -1,0 +1,2 @@
+# Music_Genre_Classification
+Audio processing has been an integral part of modern day applications in entertainment, media, forensics, etc. With the development of machine learning algorithms and sophisticated computer systems, the array of possibilities in this field has widened. In this project we aim to classify music into respective genres using machine learning algorithms i.e. we classify a given audio into jazz, hip-hop, classic, etc
